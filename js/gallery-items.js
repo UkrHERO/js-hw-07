@@ -1,64 +1,65 @@
 export const galleryItems = [
   {
     preview:
-      "https://images.pexels.com/photos/539/man-person-legs-grass.jpg?auto=compress&cs=tinysrgb&w=340",
-    original: "https://images.pexels.com/photos/539/man-person-legs-grass.jpg",
-    description: "Hokkaido Flower",
+      'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825_1280.jpg',
+    description: 'Hokkaido Flower',
   },
   {
     preview:
-      "https://images.pexels.com/photos/4502492/pexels-photo-4502492.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677__340.jpg',
     original:
-      "https://images.pexels.com/photos/4502492/pexels-photo-4502492.jpeg",
-    description: "Container Haulage Freight",
+      'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_1280.jpg',
+    description: 'Container Haulage Freight',
   },
   {
     preview:
-      "https://images.pexels.com/photos/668353/pexels-photo-668353.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785__340.jpg',
     original:
-      "https://images.pexels.com/photos/668353/pexels-photo-668353.jpeg",
-    description: "Aerial Beach View",
+      'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785_1280.jpg',
+    description: 'Aerial Beach View',
   },
   {
     preview:
-      "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619__340.jpg',
     original:
-      "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg",
-    description: "Flower Blooms",
+      'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619_1280.jpg',
+    description: 'Flower Blooms',
   },
   {
     preview:
-      "https://images.pexels.com/photos/289323/pexels-photo-289323.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
     original:
-      "https://images.pexels.com/photos/289323/pexels-photo-289323.jpeg",
-    description: "Alpine Mountains",
+      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
+    description: 'Alpine Mountains',
   },
   {
     preview:
-      "https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571__340.jpg',
     original:
-      "https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg",
-    description: "Mountain Lake Sailing",
+      'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571_1280.jpg',
+    description: 'Mountain Lake Sailing',
   },
   {
     preview:
-      "https://images.pexels.com/photos/1509582/pexels-photo-1509582.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
     original:
-      "https://images.pexels.com/photos/1509582/pexels-photo-1509582.jpeg",
-    description: "Alpine Spring Meadows",
+      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
+    description: 'Alpine Spring Meadows',
   },
   {
     preview:
-      "https://images.pexels.com/photos/2258536/pexels-photo-2258536.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255__340.jpg',
     original:
-      "https://images.pexels.com/photos/2258536/pexels-photo-2258536.jpeg",
-    description: "Nature Landscape",
+      'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255_1280.jpg',
+    description: 'Nature Landscape',
   },
   {
     preview:
-      "https://images.pexels.com/photos/4072840/pexels-photo-4072840.jpeg?auto=compress&cs=tinysrgb&w=340",
+      'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843__340.jpg',
     original:
-      "https://images.pexels.com/photos/4072840/pexels-photo-4072840.jpeg",
-    description: "Lighthouse Coast Sea",
+      'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
+    description: 'Lighthouse Coast Sea',
   },
 ];
